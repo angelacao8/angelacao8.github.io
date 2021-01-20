@@ -1,3 +1,5 @@
+Hi, I am an undergraduate student at Emory studying linguistics and math. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/angelacao8/angelacao8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
