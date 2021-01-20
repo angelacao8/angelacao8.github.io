@@ -1,4 +1,4 @@
-Hi, I am an undergraduate student at Emory studying linguistics and math. 
+Hi, I am an undergraduate student at [Emory University](https://www.emory.edu/home/index.html) studying linguistics and math. 
 
 ## Welcome to GitHub Pages
 
