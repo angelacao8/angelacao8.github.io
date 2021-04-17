@@ -1,4 +1,8 @@
- [me](https://github.com/angelacao8/angelacao8.github.io/blob/master/IMG_7225.jpeg)Hi, I am an undergraduate student at [Emory University](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am also completing an unofficial major in Quantitative Sciences with a concentration in English Literature. I am interested in theoretical linguistics and the applications of formal semantics in AI, and hope to pursue these topics in graduate school. 
+ ![me](/https://github.com/angelacao8/angelacao8.github.io/blob/master/IMG_7225.jpeg)Hi, I am an undergraduate student at [Emory University](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am also completing an unofficial major in Quantitative Sciences with a concentration in English Literature. 
+ 
+ I am interested in theoretical linguistics and the applications of formal semantics in AI, and hope to pursue these topics in graduate school. 
+ 
+ # Highlights
 
 ## Welcome to GitHub Pages
 
