@@ -14,7 +14,7 @@ August 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by D
 
 May 2021: I presented "NPIs and Processing Scalar Implicatures of Quantity" at Emory's UG Research Symposium, alongside Haohan Shi.
 
-April/May 2021: I presented "Negative Polarity Items and Their Licensing in Tigrinya" at NCUR 2021 and Emory's Linguistics Conference, alongside Maddy Liotta.
+April/May 2021: I presented [Negative Polarity Items and Their Licensing in Tigrinya](https://drive.google.com/file/d/14Kx1xHSdwKFQw3UWb8o1MKrQJG4R9PSO/view?usp=sharing) at NCUR 2021 and Emory's Linguistics Conference, alongside Maddy Liotta.
 
 June 2020: I joined Emory's NLP lab, directed by Dr. Jinho Choi.
 
