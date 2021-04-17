@@ -10,7 +10,7 @@ My interests include theoretical linguistics and the applications of formal sema
 ### Highlights
 Currently I am completing an honors thesis?
 
-August 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard.
+Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard.
 
 May 2021: I presented "NPIs and Processing Scalar Implicatures of Quantity" at Emory's UG Research Symposium, alongside Haohan Shi.
 
