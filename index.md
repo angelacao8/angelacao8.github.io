@@ -21,7 +21,7 @@ June 2020: I joined Emory's NLP lab, directed by Dr. Jinho Choi.
 Jan. 2020: I joined Emory's Language Acquisition lab, directed by Dr. Yun Kim.
 
 ### Contact
-My email is firstname.middlename.lastname@emory.edu (my middle name is Yuan). Please feel free to reach out at  for a copy of my CV or any other reason. I enjoy receiving emails :)
+My email is firstname.middlename.lastname@emory.edu (my middle name is Yuan). Please feel free to reach out for a copy of my CV or any other reason. I enjoy receiving emails :)
 
 ## Welcome to GitHub Pages
 
