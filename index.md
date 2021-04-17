@@ -1,5 +1,5 @@
 
-<img src="IMG_7225.png" alt="drawing" width="200"/>
+<img src="IMG_7225.png" alt="drawing" width="125"/>
 
 Hi, I am an undergraduate student at [Emory University](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am also completing an unofficial major in Quantitative Sciences with a concentration in English Literature. 
  
