@@ -21,7 +21,7 @@ June 2020: I joined Emory's NLP lab, directed by Dr. Jinho Choi.
 Jan. 2020: I joined Emory's Language Acquisition lab, directed by Dr. Yun Kim.
 
 ### Contact
-Please feel free to reach out to me at acao8@emory.edu for a copy of my CV, or any other reason. I enjoy receiving emails :)
+Please feel free to reach out at acao8@emory.edu for a copy of my CV or any other reason. I enjoy receiving emails :)
 
 ## Welcome to GitHub Pages
 
