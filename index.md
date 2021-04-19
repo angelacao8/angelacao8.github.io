@@ -8,7 +8,7 @@ Hi, I am a senior at [Emory](https://www.emory.edu/home/index.html) pursuing a B
 My interests include theoretical linguistics and the applications of formal semantics in AI, and I hope to pursue these topics in graduate school. 
  
 ### Highlights
-Currently I am completing an honors thesis?
+Currently, I am completing an honors thesis advised by Dr. Jinho Choi.
 
 Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard.
 
@@ -20,9 +20,11 @@ June 2020: I joined Emory's NLP lab, directed by Dr. Jinho Choi.
 
 Jan. 2020: I joined Emory's Language Acquisition lab, directed by Dr. Yun Kim.
 
+
+
 ### Contact
 My email is firstname.middlename.lastname@emory.edu (my middle name is Yuan). Please feel free to reach out for a copy of my CV or any other reason. I enjoy receiving emails :)
-
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/angelacao8/angelacao8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -60,3 +62,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
