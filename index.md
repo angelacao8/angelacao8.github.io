@@ -18,7 +18,7 @@ April/May 2021: I presented [Negative Polarity Items and Their Licensing in Tigr
 
 June 2020: I joined Emory's NLP lab, directed by Dr. Jinho Choi.
 
-May 2020: I contributed to [Examining the Effects of Social Distancing Policies on COVID-19 Spread Using a Dynamic SIRD Model](https://drive.google.com/file/d/1MeVftmEK9f-2x0HcX5D140TCOU7MYg2p/view?usp=sharing), which garnered honors from Emory University's MatheMatics Association (EUMMA).
+May 2020: I co-authored [Examining the Effects of Social Distancing Policies on COVID-19 Spread Using a Dynamic SIRD Model](https://drive.google.com/file/d/1MeVftmEK9f-2x0HcX5D140TCOU7MYg2p/view?usp=sharing), which garnered honors from Emory University's MatheMatics Association (EUMMA).
 
 Jan. 2020: I joined Emory's Language Acquisition lab, directed by Dr. Yun Kim.
 
