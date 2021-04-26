@@ -12,6 +12,8 @@ Currently, I am completing an honors thesis advised by Dr. Jinho Choi.
 
 Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard.
 
+June 2021: Maddy Liotta and I submitted [Question Formation in Tigrinya](https://drive.google.com/file/d/1CjIVF7P3aDVZexulMvr-3tlgQO8SytCr/view?usp=sharing) to the Tower Undergraduate Research Journal of the Georgia Institute of Technology. We were advised by Dr. Lelia Glass.
+
 May 2021: I presented "NPIs and Processing Scalar Implicatures of Quantity" at Emory's UG Research Symposium, alongside Haohan Shi.
 
 April/May 2021: I presented [Negative Polarity Items and Their Licensing in Tigrinya](https://drive.google.com/file/d/1jfHJvg0JcP6qMtwYPtcO8l6E0jqpg6Ab/view?usp=sharing) at NCUR 2021 and Emory's Linguistics Conference, alongside Maddy Liotta.
