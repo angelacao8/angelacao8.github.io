@@ -14,7 +14,7 @@ Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr.
 
 June 2021: Advised by Dr. Yun Kim and Dr. Lelia Glass, Maddy Liotta and I submitted [Question Formation in Tigrinya](https://drive.google.com/file/d/1CjIVF7P3aDVZexulMvr-3tlgQO8SytCr/view?usp=sharing) to TURJ of Georgia Tech. 
 
-May 2021: I presented "NPIs and Processing Scalar Implicatures of Quantity" at Emory's UG Research Symposium, alongside Haohan Shi.
+May 2021: I presented [On the Relation Between NPIs and Processing Scalar Implicatures of Quantity](https://drive.google.com/file/d/1lgw34D1AqlsYHxPxJe9ojvsxvGk1_cv4/view?usp=sharing) at Emory's UG Research Symposium, alongside Haohan Shi.
 
 April/May 2021: I presented [Negative Polarity Items and Their Licensing in Tigrinya](https://drive.google.com/file/d/1jfHJvg0JcP6qMtwYPtcO8l6E0jqpg6Ab/view?usp=sharing) at NCUR 2021 and Emory's Linguistics Conference, alongside Maddy Liotta.
 
