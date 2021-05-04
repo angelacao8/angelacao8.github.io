@@ -5,7 +5,7 @@
 
 Hi, I am a senior at [Emory](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am also completing an unofficial major in Quantitative Sciences with a concentration in English Literature. 
  
-"What do you mean?" simplifies my research interests nicely. I am interested in (a) the discrepancies between what we say and what we mean, (b) formal representations of meaning, and (c) how we can improve upon these to include the nuances that makes language uniquely ours. 
+"What do you mean?" simplifies my research interests nicely. I am interested in (a) the discrepancies between what we say and what we mean, (b) formal representations of meaning, and (c) how we can improve upon these to include the nuances that make language uniquely ours. 
  
 ### Highlights
 Currently, I am completing an honors thesis advised by Dr. Jinho Choi.
