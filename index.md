@@ -11,7 +11,7 @@ Currently, I am completing an honors thesis advised by Dr. Jinho Choi.
 
 Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard.
 
-Aug. 2021: Advised by Dr. Yun Kim and Dr. Marjorie Pak, Madison Liotta and I submitted [Negation and Negative Polarity Items in Tigrinya](https://drive.google.com/file/d/15gz8XSuXPwZ7vgdXTp37TMsKtbWfxEUW/view?usp=sharing) to JoULAB.
+Aug. 2021: Advised by Dr. Yun Kim and Dr. Marjorie Pak, Madison Liotta and I submitted [Negation and Negative Polarity Items in Tigrinya](https://drive.google.com/file/d/1l60HwXB9R-4RAHWLlJqKmubY8YYAh7lE/view?usp=sharing) to JoULAB.
 
 June 2021: Advised by Dr. Yun Kim, Haohan Shi and I submitted [On the Relation Between Negative Polarity Items and Processing Scalar Implicatures of Quantity](https://drive.google.com/file/d/1iLz46ytv9Rsz24B10OSxH_uaf-QONA_4/view?usp=sharing) to UJP of Berkeley. 
 
