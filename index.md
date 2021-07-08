@@ -24,11 +24,11 @@ May 2020: I co-authored [Examining the Effects of Social Distancing Policies on 
 May 2020: Advised by Dr. Yun Kim and Dr. Lelia Glass, Maddy Liotta and I submitted [Question Formation in Tigrinya](https://drive.google.com/file/d/1CjIVF7P3aDVZexulMvr-3tlgQO8SytCr/view?usp=sharing) to the 2021 TURJ of Georgia Tech. 
 
 ### Teaching
-Fall 2021, QTM-190, Department of Quantitative Theory and Methods, Emory University.
+Teaching Assistant, Fall 2021, QTM-190, Department of Quantitative Theory and Methods, Emory University.
 
-Spring 2021, LING-190, Program in Linguistics, Emory University.
+Teaching Assistant, Spring 2021, LING-190, Program in Linguistics, Emory University.
 
-Fall 2020, LING-201, Program in Linguistics, Emory University.
+Peer Mentor, Fall 2020, LING-201, Program in Linguistics, Emory University.
 
 ### Contact
 My email is firstname.middlename.lastname@emory.edu (my middle name is Yuan). Please feel free to reach out for a copy of my CV or any other reason. I enjoy receiving emails :)
