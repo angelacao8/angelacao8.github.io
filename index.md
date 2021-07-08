@@ -13,6 +13,8 @@ Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr.
 
 Aug. 2021: Advised by Dr. Yun Kim and Dr. Marjorie Pak, Madison Liotta and I submitted [Negation and Negative Polarity Items in Tigrinya](https://drive.google.com/file/d/1l60HwXB9R-4RAHWLlJqKmubY8YYAh7lE/view?usp=sharing) to JoULAB.
 
+Aug. 2021: Advised by Dr. Marjorie Pak, I submitted [Towards a Formal Description of Metalinguistic Negation](https://drive.google.com/file/d/1cOuz-3VQx_jo_B2ufqalaAjybfeFJGGD/view?usp=sharing) to EURJ.
+
 June 2021: Advised by Dr. Yun Kim, Haohan Shi and I submitted [On the Relation Between Negative Polarity Items and Processing Scalar Implicatures of Quantity](https://drive.google.com/file/d/1iLz46ytv9Rsz24B10OSxH_uaf-QONA_4/view?usp=sharing) to UJP of Berkeley. 
 
 May 2021: Advised by Dr. Yun Kim, Haohan Shi and I presented [On the Relation Between NPIs and Processing Scalar Implicatures of Quantity](https://drive.google.com/file/d/1lgw34D1AqlsYHxPxJe9ojvsxvGk1_cv4/view?usp=sharing) at Emory's UG Research Symposium.
