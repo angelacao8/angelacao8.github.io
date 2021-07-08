@@ -7,7 +7,7 @@
 Hi, I am a senior at [Emory](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am interested in theoretical linguistics and applications of the semantics-pragmatics interface in AI.
  
 ### Research
-Currently, I am completing an honors thesis advised by Dr. Jinho Choi and Dr. Gregor Williamson. We aim to integrate formal linguistics into dialogue systems through Graph Reasoning for Inference Driven Dialogue (GRIDD) for [Emora](http://nlp.mathcs.emory.edu/emora/emora.html).
+Currently, I am completing an honors thesis advised by Dr. Jinho Choi and Dr. Gregor Williamson. We are working on Graph Reasoning for Inference Driven Dialogue (GRIDD) for [Emora](http://nlp.mathcs.emory.edu/emora/emora.html).
 
 Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard and Atticus Geiger. During this experience, we researched [Integrating Structured Equation Models into Formal Semantics: A Case Study in Chess](www.google.com).
 
