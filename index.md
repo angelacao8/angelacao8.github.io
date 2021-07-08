@@ -4,7 +4,7 @@
 
 ## Angela Y. Cao
 
-Hi, I am a senior at [Emory](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am interested in theoretical linguistics and applications of the semantics-pragmatics interface in AI.
+Hi, I am a senior at [Emory](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am interested in formal linguistics, causal language, and applications of the semantics-pragmatics interface in AI.
  
 ### Research
 Currently, I am completing an honors thesis advised by Dr. Jinho Choi and Dr. Gregor Williamson. We are working on Graph Reasoning for Inference Driven Dialogue (GRIDD) for [Emora](http://nlp.mathcs.emory.edu/members.html).
