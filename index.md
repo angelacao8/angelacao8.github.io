@@ -6,10 +6,10 @@
 
 Hi, I am a senior at [Emory](https://www.emory.edu/home/index.html) pursuing a B.A. in Linguistics and Math. I am interested in theoretical linguistics and applications of the semantics-pragmatics interface in AI.
  
-### Highlights
-Currently, I am completing an honors thesis advised by Dr. Jinho Choi.
+### Research
+Currently, I am completing an honors thesis advised by Dr. Jinho Choi and Dr. Gregor Williamson. We aim to integrate formal linguistics into dialogue systems through Graph Reasoning for Inference Driven Dialogue (GRIDD) for [Emora](http://nlp.mathcs.emory.edu/emora/emora.html).
 
-Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard.
+Aug. 2021: I completed an NSF REU hosted by Stanford CSLI and was advised by Dr. Thomas Icard and Atticus Geiger. During this experience, we researched [Integrating Structured Equation Models into Formal Semantics: A Case Study in Chess](www.google.com).
 
 Aug. 2021: Advised by Dr. Yun Kim and Dr. Marjorie Pak, Madison Liotta and I submitted [Negation and Negative Polarity Items in Tigrinya](https://drive.google.com/file/d/1l60HwXB9R-4RAHWLlJqKmubY8YYAh7lE/view?usp=sharing) to JoULAB.
 
@@ -21,7 +21,14 @@ April/May 2021: Advised by Dr. Yun Kim, Maddy Liotta and I presented [Negative P
 
 May 2020: I co-authored [Examining the Effects of Social Distancing Policies on COVID-19 Spread Using the Differential SIRD Model](https://drive.google.com/file/d/1HlWks3EADh73vDiWw-wdhAjWTi2i6ZhB/view?usp=sharing), which garnered honors from Emory University's MatheMatics Association (EUMMA).
 
-May 2020: May 2021: Advised by Dr. Yun Kim and Dr. Lelia Glass, Maddy Liotta and I submitted [Question Formation in Tigrinya](https://drive.google.com/file/d/1CjIVF7P3aDVZexulMvr-3tlgQO8SytCr/view?usp=sharing) to the 2021 TURJ of Georgia Tech. 
+May 2020: Advised by Dr. Yun Kim and Dr. Lelia Glass, Maddy Liotta and I submitted [Question Formation in Tigrinya](https://drive.google.com/file/d/1CjIVF7P3aDVZexulMvr-3tlgQO8SytCr/view?usp=sharing) to the 2021 TURJ of Georgia Tech. 
+
+### Teaching
+Spring 2021, QTM-190, Department of Quantitative Theory and Methods, Emory University.
+
+Spring 2021, LING-190, Program in Linguistics, Emory University.
+
+Fall 2020, LING-201, Program in Linguistics, Emory University.
 
 ### Contact
 My email is firstname.middlename.lastname@emory.edu (my middle name is Yuan). Please feel free to reach out for a copy of my CV or any other reason. I enjoy receiving emails :)
