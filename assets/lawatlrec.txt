@@ -1,0 +1,11 @@
+@inproceedings{cao-etal-2022,
+    address = {Online},
+    author = {Cao, Angela and Williamson, Gregor and Choi, Jinho},
+    booktitle = {Proceedings of the 16th Linguistic Annotation Workshop (LAW) at LREC},
+    month = {June},
+    pages = {151--159},
+    publisher = {European Language Resources Association},
+    title = {A Cognitive Approach to Annotating Causal Constructions in a Cross-Genre Corpus},
+    url = {http://lrec-conf.org/proceedings/lrec2022/workshops/LAWXVI/pdf/2022.lawxvi-1.18.pdf},
+    year = {2022}}
+
