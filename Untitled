@@ -238,6 +238,7 @@ a:visited {
   padding-top: 160px;
   margin: 0px auto;
   width: 500px;
+  /* line-height: 1.5em; */
 }
 
 /*
