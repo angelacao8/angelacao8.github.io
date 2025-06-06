@@ -51,8 +51,14 @@ table {
 body{
   background: #FFFFFF;
 }
-ol, ul {
+/* ol, ul {
   list-style: none;
+} */
+ul {
+  list-style: none;
+}
+ol {
+  list-style-type: decimal;
 }
 li {
   margin: 20px 0px 0px 30px;

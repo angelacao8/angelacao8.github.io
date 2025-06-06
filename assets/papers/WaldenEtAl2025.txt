@@ -1,0 +1,7 @@
+@inproceedings{walden-etal-2025,
+  author    = {Walden, William and Kuchmiichuk, Pavlo and Martin, Alexander and Jin, Chihsheng and Cao, Angela and Sun, Claire and Allen, Curisia and White, Aaron Steven},
+  title     = {Cross-Document Event-Keyed Summarization},
+  booktitle = {Proceedings of The 1st Joint Workshop on Large Language Models and Structure Modeling},
+  year      = {2025},
+  publisher = {Association for Computational Linguistics},
+}

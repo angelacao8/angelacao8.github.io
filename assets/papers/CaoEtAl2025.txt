@@ -1,0 +1,11 @@
+@inproceedings{cao-etal-2025,
+  author    = {Cao, Angela and White, Aaron Steven and Lassiter, Daniel},
+  title     = {{Cause}, {Make}, and {Force} as Graded Causatives},
+  booktitle = {Experiments in Linguistic Meaning},
+  volume    = {3},
+  pages     = {88--103},
+  year      = {2025},
+  publisher = {Linguistic Society of America},
+  doi       = {10.3765/elm.3.5821},
+  url       = {https://doi.org/10.3765/elm.3.5821}
+}

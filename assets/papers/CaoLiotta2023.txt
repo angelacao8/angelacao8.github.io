@@ -1,0 +1,11 @@
+@inproceedings{cao-etal-2023,
+  author    = {Cao, Angela and Liotta, Madison},
+  title     = {Negation and Negative Polarity Items in {Tigrinya}},
+  booktitle = {University of Pennsylvania Working Papers in Linguistics},
+  volume    = {29},
+  number    = {1},
+  pages     = {19--27},
+  year      = {2023},
+  url       = {https://repository.upenn.edu/handle/20.500.14332/58736}
+}
+
